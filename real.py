@@ -1,1 +1,1 @@
-# this is my solution to project euler problem 11, by kameek, not the other bum
+# this is my solution to project euler problem 11, by mason not the other bum
